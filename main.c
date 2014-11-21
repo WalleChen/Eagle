@@ -2,11 +2,10 @@
 
 void find()
 {
-
 }
 
 int main()
 {
-    printf("This is version 3\n");
+    printf("This is version 4\n");
     return 0;
 }
