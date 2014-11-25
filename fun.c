@@ -1,3 +1,3 @@
-void fun()
+void fun(int a)
 {
 }
