@@ -11,7 +11,9 @@ volatile int sub(int a, int b)
 {
      return a - b;
 }
-
+/*
+ *  main
+ */
 int main()
 {
     printf("This is version 10\n");
