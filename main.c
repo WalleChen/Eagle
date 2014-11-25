@@ -7,7 +7,7 @@ int add(int a, int b)
     return a + b;
 }
 
-volatile int sub(int a, int b)
+volatile int sub(int a)
 {
      return a - b;
 }
